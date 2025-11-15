@@ -8,6 +8,6 @@ A snake named snake see appley and summons apples for the snake to hunt and eat,
 # Progress
 V1 - Out - 2025 November 5
 
-V2 - Soon - 2025 November 25
+V2 - Soon - 2025 November 17
 
-Final - Later - 2025 December 5
+Final - Later - 2025 November 25
