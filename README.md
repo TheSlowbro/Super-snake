@@ -6,8 +6,4 @@ If you mod it, you may need to learn python but if you do, good luck!, i hate wh
 # Story
 A snake named snake see appley and summons apples for the snake to hunt and eat, but also he gets trapped in a loop because appley made a mistake so he trapped with food and hunting forever in a world appley made.
 # Progress
-V1 - Out - 2025 November 5
-
-V2 - Soon - 2025 November 17
-
-Final - Later - 2025 November 25
+Final - Later - 2025 November 17
