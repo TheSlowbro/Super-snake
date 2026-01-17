@@ -7,5 +7,7 @@ If you mod it, you may need to learn python but if you do, good luck!, i hate wh
 A snake named snake see appley and summons apples for the snake to hunt and eat, but also he gets trapped in a loop because appley made a mistake so he trapped with food and hunting forever in a world appley made.
 # Progress
 Final Verison 1 update aka 1.2 - 2025 November 17
-Verison 2? - 2026 January 18
+Verison 2? - 2026 January 18 - DELAYED TO WII U PORT'S RELEASE (12 days later sorry)
 More Updates and verison -> Sometime in 2026, more likey to happen if this game does well
+# Porting it to Wii U
+YES!, GET READY FOR WII U SUPER SNAKE ON WII U ON JANUARY 30 2026 WITH V2.0 on PC and Wii U V1.0U
